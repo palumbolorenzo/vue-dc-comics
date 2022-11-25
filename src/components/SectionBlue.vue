@@ -33,7 +33,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 .blue {
     background-color: #0282F9;
     height: 155px;

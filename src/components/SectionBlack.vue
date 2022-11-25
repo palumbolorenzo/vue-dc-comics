@@ -10,7 +10,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 .container-section {
     background-color: black;
     height: 132px;

@@ -34,7 +34,7 @@ name: 'FooterLinks',
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 .footer-background {
     background-color: #303030;
     height: 110px;
@@ -42,6 +42,7 @@ name: 'FooterLinks',
 }
 
 .links-container {
+    height: 110px;
     display: flex;
     align-items: center;
     justify-content: space-between;

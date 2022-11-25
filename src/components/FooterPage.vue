@@ -58,7 +58,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 .background {
     background-image: url('@/img/footer-bg.jpg');
     height: 400px;
