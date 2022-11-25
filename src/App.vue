@@ -2,6 +2,7 @@
   <div>
     <HeaderPage />
     <SectionBlack />
+    <MainPage />
     <SectionBlue />
     <FooterPage />
     <FooterLinks />
@@ -11,6 +12,7 @@
 <script>
 import HeaderPage from '@/components/HeaderPage.vue';
 import SectionBlack from '@/components/SectionBlack.vue';
+import MainPage from '@/components/MainPage.vue';
 import SectionBlue from '@/components/SectionBlue.vue';
 import FooterPage from '@/components/FooterPage.vue';
 import FooterLinks from '@/components/FooterLinks.vue';
@@ -19,6 +21,7 @@ export default {
   components: {
     HeaderPage,
     SectionBlack,
+    MainPage,
     SectionBlue,
     FooterPage,
     FooterLinks
